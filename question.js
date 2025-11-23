@@ -4,6 +4,7 @@ var statGame = confirm("Oyun baslasinmi ?")
 if (statGame) {
 
     alert("Oyun basladi... UGURLAR!")
+    alert("Rayon ve seher adlarini herfler qarisdirilmis sekilde teqdim edecem ve sende dogru sozu tapmaga calisacaqsan")
     var score = 0
 
     var word1 = "BAKI"
